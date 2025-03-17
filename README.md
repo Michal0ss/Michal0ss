@@ -10,7 +10,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Michal0ss&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Michal0ss&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/michał-białas-264b0b268/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michał-białas-264b0b268/) 
 
 
 ### ✍️ Random Dev Quote
