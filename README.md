@@ -1,4 +1,4 @@
-## Hi there I'm Michal
+## Hi there I'm Michael
 
 🌱I’m a first-year Computer Science student at AGH, 
 <br><br> 🔭Passionate about full-stack development and optimalizations. <br><br>👯Currently, I’m enrolled in a front-end EPAM course and <br>working on an e-learning math platform project for high school students. <br><br>⚡My goal is to secure my first internship and gain hands-on experience in the industry.
